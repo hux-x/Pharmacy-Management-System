@@ -1,0 +1,13 @@
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\bin\Release\Pharmacy Management System-v2.exe.config
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\bin\Release\Pharmacy Management System-v2.exe
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\bin\Release\Pharmacy Management System-v2.pdb
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Release\Pharmacy Management System-v2.csproj.AssemblyReference.cache
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Release\Pharmacy_Management_System_v2.Form1.resources
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Release\Pharmacy_Management_System_v2.Inventory.resources
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Release\Pharmacy_Management_System_v2.Pharmacy.resources
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Release\Pharmacy_Management_System_v2.Properties.Resources.resources
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Release\Pharmacy_Management_System_v2.Sales.resources
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Release\Pharmacy Management System-v2.csproj.GenerateResource.cache
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Release\Pharmacy Management System-v2.csproj.CoreCompileInputs.cache
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Release\Pharmacy Management System-v2.exe
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Release\Pharmacy Management System-v2.pdb

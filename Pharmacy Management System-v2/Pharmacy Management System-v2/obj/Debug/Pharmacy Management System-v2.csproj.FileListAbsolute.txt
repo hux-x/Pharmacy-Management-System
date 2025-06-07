@@ -1,0 +1,28 @@
+C:\Users\husna\source\repos\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy Management System-v2.csproj.AssemblyReference.cache
+C:\Users\husna\source\repos\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy_Management_System_v2.Form1.resources
+C:\Users\husna\source\repos\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy_Management_System_v2.Properties.Resources.resources
+C:\Users\husna\source\repos\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy Management System-v2.csproj.GenerateResource.cache
+C:\Users\husna\source\repos\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy Management System-v2.csproj.CoreCompileInputs.cache
+C:\Users\husna\source\repos\Pharmacy Management System-v2\Pharmacy Management System-v2\bin\Debug\Pharmacy Management System-v2.exe.config
+C:\Users\husna\source\repos\Pharmacy Management System-v2\Pharmacy Management System-v2\bin\Debug\Pharmacy Management System-v2.exe
+C:\Users\husna\source\repos\Pharmacy Management System-v2\Pharmacy Management System-v2\bin\Debug\Pharmacy Management System-v2.pdb
+C:\Users\husna\source\repos\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy Management System-v2.exe
+C:\Users\husna\source\repos\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy Management System-v2.pdb
+C:\Users\husna\source\repos\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy Management System-v2.exe.config
+C:\Users\husna\source\repos\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy_Management_System_v2.Inventory.resources
+C:\Users\husna\source\repos\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy_Management_System_v2.Pharmacy.resources
+C:\Users\husna\source\repos\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy_Management_System_v2.Sales.resources
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\bin\Debug\Pharmacy Management System-v2.exe.config
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\bin\Debug\Pharmacy Management System-v2.exe
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\bin\Debug\Pharmacy Management System-v2.pdb
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy Management System-v2.csproj.AssemblyReference.cache
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy Management System-v2.exe.config
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy_Management_System_v2.Form1.resources
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy_Management_System_v2.Inventory.resources
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy_Management_System_v2.Pharmacy.resources
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy_Management_System_v2.Properties.Resources.resources
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy_Management_System_v2.Sales.resources
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy Management System-v2.csproj.GenerateResource.cache
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy Management System-v2.csproj.CoreCompileInputs.cache
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy Management System-v2.exe
+Z:\PMS-Project\Pharmacy Management System-v2\Pharmacy Management System-v2\obj\Debug\Pharmacy Management System-v2.pdb
